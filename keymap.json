@@ -1,9 +1,9 @@
-{
+     {
   "version": 1,
   "notes": "",
   "documentation": "\"This file is a QMK Configurator export. You can import this at <https://config.qmk.fm>. It can also be used directly with QMK's source code.\n\nTo setup your QMK environment check out the tutorial: <https://docs.qmk.fm/#/newbs>\n\nYou can convert this file to a keymap.c using this command: `qmk json2c {keymap}`\n\nYou can compile this keymap using this command: `qmk compile {keymap}`\"\n",
   "keyboard": "ferris/sweep",
-  "keymap": "ferris_sweep_layout_split_3x5_2_mine",
+  "keymap": "keymap",
   "layout": "LAYOUT_split_3x5_2",
   "layers": [
     [
@@ -73,7 +73,7 @@
       "TO(3)",
       "TO(4)",
       "TO(5)",
-      "KC_TRNS",
+      "TO(0)",
       "KC_BSPC",
       "KC_SPC",
       "KC_LSFT"
@@ -183,8 +183,8 @@
       "KC_NO",
       "MO(6)",
       "KC_SPC",
-      "KC_NO",
-      "KC_NO"
+      "TO(0)",
+      "TO(0)"
     ],
     [
       "KC_Q",
