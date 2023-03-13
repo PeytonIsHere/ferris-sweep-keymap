@@ -1,4 +1,4 @@
 # ferris-sweep-keymap
-This is my ferris sweep keymap. hopefully this benefits someone out there. 
+This is my ferris sweep keymap. Hopefully this benefits someone out there. 
 Open the pdf to quickly see what the keymap is.
-Btw you can use this.
+Make your own and change it how you like.
